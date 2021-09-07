@@ -1,0 +1,33 @@
+body {
+    background-color: #bfd8b8;
+}
+hr {
+    color: #808080;
+    border-width: 0px;
+    border-top: dotted 5px;
+    height: 2px;
+    width: 4%;
+}
+img {
+    max-width: 200px;
+    max-height: auto;
+    border-radius: 100%;
+}
+img:hover {
+    border-radius: 0%;
+}
+h1 {
+    color: #064420;
+}
+h3 {
+    color: #5B6D5B;
+}
+p {
+    color: #85603F
+}
+td {
+    color: #85603F
+}
+li {
+    color: #85603F
+}
